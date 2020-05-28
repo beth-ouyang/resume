@@ -1,5 +1,5 @@
 # Resume
-前端程式設計第三次作業：[個人履歷！](https://github.com/beth-ouyang/resume)
+前端程式設計第三次作業：[個人履歷！](https://beth-ouyang.github.io/resume/)
 
 
 
